@@ -1,6 +1,9 @@
 # E-commerce
 London E-commerce company Data 2010-2011
 
+# Visualizations
+Check out my Dashboard on Tableau in: https://public.tableau.com/app/profile/karim.ayyad/viz/E-commercedatasales/Dashboard1
+
 # E-Commerce Sales Analysis
 
 ## 1. Introduction
